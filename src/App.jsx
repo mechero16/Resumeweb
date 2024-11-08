@@ -117,22 +117,22 @@ function App() {
   
 </div>
 
-<div style={{position:"relative",top: '182px',margin:'0'}} >
+<div style={{position:"relative",top: '182px',margin:'0',fontFamily:'Roboto, sans-serif'}} >
 <p>My Projects</p>
 
 <div style={{width: '61vw',height: '3vw',position:"relative",left:'42px'}}>
 
   <Row xs={1} md={3} className="g-1">
                 <Col >
-                  <Content title="AutoSearch" dis="its an webextention" />
+                  <Content title="AutoSearch" dis="Its an webextention" />
                 </Col>
 
                 <Col >
-                  <Content title=" webpage" dis="departmental cse at kpt " />
+                  <Content title=" Webpage" dis="Departmental cse at kpt " />
                 </Col>
 
                 <Col >
-                  <Content title="Attendence teacker" dis="ofr kpt college" />
+                  <Content title="Attendence Teacker" dis="Of kpt college" />
                 </Col>
                 
               </Row>
