@@ -8,7 +8,7 @@ const Author = ()=>{
 
                 <div id="img_Cont">
 
-                    <img id="Img" src=".\assets\src\assets\MyPhoto.jpeg" style={{margin:'auto'}} />
+                    <img id="Img" src=".\src\assets\MyPhoto.jpeg" style={{margin:'auto'}} />
 
                     <div id="name_Cont">
                     <p id="Name">Harsh Maurya</p>

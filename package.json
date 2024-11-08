@@ -1,5 +1,4 @@
-{"homepage": " https://mechero16.github.io/resumeweb",
-  "name": "myresume",
+{  "name": "myresume",
   "private": true,
   "version": "0.0.0",
   "type": "module",
