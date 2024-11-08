@@ -102,7 +102,7 @@ function App() {
         <div id="lcontent" style={{ width: "70%", background: "#252531", height: '36vw', zIndex: 0, position: 'relative','overflow-y': 'scroll' }}>
     
           
-          <img style={{ width: "75%", margin: "2vw", borderRadius: "2%" }} src="src\assets\art-7117910_1280.jpg" alt="" />
+          <img style={{ width: "75%", margin: "2vw", borderRadius: "2%" }} src=".\src\assets\art-7117910_1280.jpg" alt="" />
           <div style={{    position: "relative", top: "-52%",left: "40%",transform: "translate(-50%, -50%)","text-align": "center",color:"white",    "z-index": 1,"font-size": "2vw", fontFamily: 'Roboto, sans-serif'  }}>
             Discover my Amazing Art Space!
           </div>
